@@ -1,9 +1,12 @@
 # 🐧 Dimas Adimo
 
 <div align="center">
+**`UI Enginee / Data Engineer`**
+<br>
 👋 Hi there, welcome to my GitHub! 🇮🇩 I’m a UI Engineer, Data Engineer, and a streamer-wannabe 🚀. I enjoy wandering around in user-interactive design 🎨 and data pipeline tech 🐍📊—always curious and exploring.
-
-  
+<br>
+<br>
+<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dimsaadimo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimasadi1308@gmail.com) 
 </div>
 
